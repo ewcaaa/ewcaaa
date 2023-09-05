@@ -8,7 +8,7 @@
   <a href="[your-youtube-URL](https://www.youtube.com/channel/UCL9meFJVJcJWq-iHEwI2bfw)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://evatravelstheworld.weebly.com/)">
+  <a href="[your-travel-URL](https://evatravelstheworld.weebly.com/)">
     <img src="https://img.shields.io/badge/travel-blog-green?style=flat" alt="Blog Badge"/>
   </a>
 </div>
