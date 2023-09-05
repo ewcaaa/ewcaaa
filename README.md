@@ -10,6 +10,10 @@
   <a href="[your-travel-URL](https://evatravelstheworld.weebly.com/)">
     <img src="https://img.shields.io/badge/travel-blog-green?style=flat" alt="Blog Badge"/>
   </a>
+  </a>
+  <a href="[your-personal-URL](file:///Users/evameglic/Documents/CSS/index.html)">
+    <img src="https://img.shields.io/badge/personal-website-yellow?style=plastic" alt="Blog Badge"/>
+  </a>
 </div>
 </div>
 
