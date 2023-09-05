@@ -15,5 +15,8 @@
     <img src="https://img.shields.io/badge/personal-website-yellow?style=flat" alt="Personal Website"/>
   </a>
 </div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ewcaaa&style=flat-square&color=blue" alt=""/>
+</div>
 </div>
 
