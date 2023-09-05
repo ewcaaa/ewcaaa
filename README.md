@@ -33,7 +33,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a epidemiologist and aspiring developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Netherlands.
+I am a epidemiologist and aspiring programmer/developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Netherlands.
 - :telescope: I’m working as a Biostatistician and am doing statistical analyses for pharmaceutical companies.
   
 - :seedling: Exploring Technical Content Writing.
