@@ -46,3 +46,6 @@ I am a epidemiologist and aspiring programmer/developer <img src="https://media.
   
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-eva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evameglic/?originalSubdomain=nl)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
