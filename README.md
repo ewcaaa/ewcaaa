@@ -12,7 +12,7 @@
   </a>
   </a>
   <a href="[your-personal-URL](file:///Users/evameglic/Documents/CSS/index.html)">
-    <img src="https://img.shields.io/badge/personal-website-yellow?style=plastic" alt="Blog Badge"/>
+    <img src="https://img.shields.io/badge/personal-website-yellow?style=flat" alt="Blog Badge"/>
   </a>
 </div>
 </div>
