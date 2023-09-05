@@ -40,7 +40,7 @@ I am a epidemiologist and aspiring developer <img src="https://media.giphy.com/m
   
 - :zap: In my free time, I am learning how to code in HTML, CSS, JavaScript and Python.
 
-- :netherlands: I am also learning Dutch (and a bit of :spain:).
+- :netherlands: I am also learning Dutch (and a bit of :es:).
   
 - :airplane: I also love traveling and have until now been to 45 countries.
   
