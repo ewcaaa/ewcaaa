@@ -65,6 +65,6 @@ I am a epidemiologist and aspiring programmer/developer <img src="https://media.
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ewcaaa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ewcaaa)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewcaaa&layout=compact&theme=codeSTACKr)](https://github.com/ewcaaa/github-readme-stats)
